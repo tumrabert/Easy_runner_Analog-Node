@@ -58,7 +58,7 @@ Follow these steps to download and run the script:
     - The script will prompt you to enter your name. Type your desired name and press Enter.
 
 5. **View Your Rotate Key**:
-    - Once the script completes, it will display your rotate key in JSON format.
+    - Once the script completes, it will display your rotate key in that start with "0X...."
 
 ### Important Notes
 
