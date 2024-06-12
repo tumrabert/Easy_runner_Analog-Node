@@ -8,9 +8,9 @@ This script is designed to help you download, prepare, and run a script to obtai
 
 
     ```bash
-        curl -O https://github.com/tumrabert/Easy_runner_Analog-Node/blob/main/run_script.bash
-        chmod +x run_script.bash
-        ./run_script.bash
+    curl -O https://github.com/tumrabert/Easy_runner_Analog-Node/blob/main/run_script.bash
+    chmod +x run_script.bash
+    ./run_script.bash
     ```
 ### Prerequisites
 
