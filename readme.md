@@ -4,19 +4,19 @@
 
 This script is designed to help you download, prepare, and run a script to obtain your rotate key.
 
-## TL;DR - Quick Setup
+## Quick Setup
 
 If you just want to get started with minimal fuss, run the following commands in your terminal:
 
 ```
 # Download the setup script
-curl -O https://raw.githubusercontent.com/tumrabert/Easy_runner_Analog-Node/main/setup_ssh_and_push.bash
+curl -O https://raw.githubusercontent.com/tumrabert/Easy_runner_Analog-Node/main/run_script.bash
 
 # Make the script executable
-chmod +x setup_ssh_and_push.bash
+chmod +x run_script.bash
 
 # Run the script
-./setup_ssh_and_push.bash
+./run_script.bash
 ```
 ### Prerequisites
 
@@ -35,7 +35,7 @@ Follow these steps to download and run the script:
     - Navigate to the directory where you want to save the script (e.g., your home directory).
     
       ```bash
-      curl -O https://github.com/tumrabert/Easy_runner_Analog-Node/blob/main/run_script.bash
+      curl -O https://raw.githubusercontent.com/tumrabert/Easy_runner_Analog-Node/main/run_script.bash
       ```
     - This command will download the script and save it as `run_script.bash`.
 
