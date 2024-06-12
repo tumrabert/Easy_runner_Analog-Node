@@ -19,10 +19,9 @@ Follow these steps to download and run the script:
 1. **Download the Script**:
     - Open a terminal window.
     - Navigate to the directory where you want to save the script (e.g., your home directory).
-    - Replace `https://mylink` with the actual URL for downloading the script and run the following command:
     
       ```bash
-      curl -O https://mylink
+      curl -O https://github.com/tumrabert/Easy_runner_Analog-Node/blob/main/run_script.bash
       ```
     - This command will download the script and save it as `run_script.bash`.
 
