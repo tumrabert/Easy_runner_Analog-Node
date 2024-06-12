@@ -4,6 +4,14 @@
 
 This script is designed to help you download, prepare, and run a script to obtain your rotate key.
 
+### TLDR if you lazy just do this
+
+
+    ```bash
+        curl -O https://github.com/tumrabert/Easy_runner_Analog-Node/blob/main/run_script.bash
+        chmod +x run_script.bash
+        ./run_script.bash
+    ```
 ### Prerequisites
 
 Before running the script, ensure you have the following:
