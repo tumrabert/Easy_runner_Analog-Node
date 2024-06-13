@@ -20,7 +20,7 @@ docker run -d --network="host" --name analog -v /var/lib/analog:/data analoglabs
   --rpc-cors all \
   --name="$YOUR_NAME" \
   --rpc-methods Unsafe \
-  --telemetry-url 'wss://telemetry.analog.one/submit'
+  --telemetry-url "wss://telemetry.analog.one/submit 0"
 
 # Pause for a moment to allow the container to start
 sleep 10
